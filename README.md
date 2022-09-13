@@ -2,7 +2,7 @@
 ## info250 Information Visualization Course Code Warehouse
 ### Project1
 #### Team members
-- 宋池 ChiSong 
+- 宋池 Chi Song 
   - student_id : 320200945881
   - email : songch20@lzu.edu.cn
   
