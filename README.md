@@ -7,7 +7,10 @@
   - email : songch20@lzu.edu.cn
   
  - hyw
- 
- - zxr
- 
+
+ - 张栩瑞 Xurui Zhang
+   - student_id : 320200931601
+
+   - email : xrzhang20@lzu.edu.cn
+
  - gy
