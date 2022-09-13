@@ -6,7 +6,9 @@
   - student_id : 320200945881
   - email : songch20@lzu.edu.cn
   
- - hyw
+ - 韩祎伟 Han Yiwei
+ - student_id : 320200930921
+ - email : hanyw20@lzu.edu.cn
 
  - 张栩瑞 Xurui Zhang
    - student_id : 320200931601
