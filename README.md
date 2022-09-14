@@ -14,4 +14,6 @@
    - student_id : 320200931601
    - email : xrzhang20@lzu.edu.cn
 
- - gy
+ - 桂昱 Yu Gui
+    - student_id : 320200930891
+    - email : guiy2020@lzu.edu.cn
