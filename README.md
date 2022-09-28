@@ -33,7 +33,7 @@
 
 ##### About The project
 
-During the time, As the person in charge of the project, Song Chi was responsible for the coordination and task allocation of the whole team. At the same time, he and Yiwei Han together completed the code work of the first three problems. And Xurui Zhang and Yu Gui were responsible for the writing of the last two problems. In the process of coding, we helped each other, learned from each other's strengths, and finally successfully completed this project. 
+At the beginning of the project, the team members have a brief discussion, confirm the general idea, and start to realize when the project is proposed. The code part is mainly in charge of Song Chi and Han Yiwei, and Zhang Xurui and Gui Yu modified the specific requirements to make the project complete and in line with the requirements. The code part is not very useful. The main thing is that we spent a lot of time in the two-factor analysis of task3, understanding the requirements and asking the teaching assistants. When encountering problems, we will discuss with each other, help each other, and learn from each other's strengths. The realization of the project is inseparable from everyone's efforts.
 
 ##### Preparatory Work
 
