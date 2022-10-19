@@ -58,3 +58,11 @@ We defined a function named `plot_barh()`. In `plot_barh()` We made a division o
 ##### Task 5
 
 We use a scatter plot to show the relationship between 'recall' and 'f1'. By the result of the scatter plot,we can find there would be a positive-relevant relationship between recall and f1.
+
+
+
+## Project 2
+##### About The project
+
+##### Preparatory Work
+
