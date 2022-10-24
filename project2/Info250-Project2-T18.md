@@ -19,7 +19,7 @@ At the beginning of the People's Republic of China, there were only 205 general 
 In order to understand the specific information, We found a graph:
 (http://www.news.cn/datanews/20211015/C999058529900001C39214B0FE601D68/20211015C999058529900001C39214B0FE601D68_1211351537_1630390571638_title.jpg)
 However, when reviewing the data of the graph, our team found a lot of inadequacies in the  visualization of the graph.
-![](/images/orgE.jpg)
+![](./images/orgE.jpg)
 On the X-axis is the year information, from 1997 to 2020. The Y-axis is divided into the left and right sides, the left side represents the number of schools. On the right, indicates the number of teachers and students. The unit is ten thousand. The Y-axis on the left corresponds to the dark blue broken line in the graph, which represents the number of general colleges and universities; The Y-axis on the right corresponds to the two scatter points in the graph. The blue scatter points indicates the number of students in general colleges and universities, and the brown scatter points indicates the number of full-time teachers in general colleges and universities.
 
 The data looks neat, but it actually has some shortcomings in visualization. First, our team found that the relative length of its X-axis was short, which made the X-axis coordinates representing the year vertical and not convenient for us to observe. Secondly, when the scatter points represent the number of people, the change trend is not particularly intuitive, and the scatter points are too large for us to directly observe the specific data of the number of people in different years. Finally, the origin’s height of the Y-axis coordinates on both sides is different, the coordinate interval of the left Y-axis is too large (the coordinates of 6K~14K even have no effect), and the coordinate on the right is not guided by a straight line, which is not convenient for data observation.
@@ -29,7 +29,7 @@ This graph shows the trend of China's modern higher education (1997-2020) from e
 ## Improvements
  
 To improve this visualization, first we need to restore it in to a vector diagram. We used matplotlib to do this. Here is the diagram we restored. We output it in a .svg format. We put the original image aside for comparison.
-![](/images/org.jpg)![](/images/org.svg)
+![](./images/org.jpg)![](./images/org.svg)
  
 You may find that the data size in the graph is slightly different, because we actually do not have the original dataset, but fabricate a set of approximate datasets for use. This is because there is no specific data set in the original text, so we have to use the data we made up. But this is not the key point. We want to show the improvement of this chart, not the real data.
  
@@ -38,7 +38,7 @@ In the previous context, we mentioned three shortages of the original visualizat
 Second, the plot type used is a scatter plot. Although it can roughly show the trend of data changes, it cannot show the size of data accurate enough. Here, we choose the line plot cooperating with nodes for data visualization. On the one hand, it can show the growth of data more clearly, on the other hand, it can show the size of data more accurately. At the same time, we will unify the legend and use different colors to distinguish different data.
 
 Finally, the width of the x-axis is too narrow. We lengthen the horizontal axis so that the plot can output all the years horizontally without overlapping. Here is our final finished picture.
-![](/images/changed.svg)
+![](./images/changed.svg)
  
 This is the final version of our improvement of the original plot. Comparing it with the original plot, and you will find that it is more intuitive for data presentation. You can see the growth of the data clearly and obtain the size of the data accurately. Compared with the original plot, it is much cleaner.
 ## Summary
