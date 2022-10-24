@@ -64,5 +64,12 @@ We use a scatter plot to show the relationship between 'recall' and 'f1'. By the
 ## Project 2
 ##### About The project
 
-##### Preparatory Work
+This project is mainly devided in to two parts. The code part and the report part. The works are in the "\project2" directory. In the directory named "\previous" there stores eliminated documents. The directory named "\images" is visualizations used.
+
+##### Works
+
+The two main documents are listed:
+
+    This is the report part:  Info250-Project2-T18.md 
+    This is the code part:    project2.ipynb
 
