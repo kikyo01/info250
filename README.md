@@ -72,4 +72,5 @@ The two main documents are listed:
 
     This is the report part:  Info250-Project2-T18.md 
     This is the code part:    project2.ipynb
+    (This is a Pdf version that was converted from the markdown file) : Info250-Project2-T18.pdf
 
