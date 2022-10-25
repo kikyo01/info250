@@ -29,7 +29,8 @@ This graph shows the trend of China's modern higher education (1997-2020) from e
 ## Improvements
  
 To improve this visualization, first we need to restore it in to a vector diagram. We used matplotlib to do this. Here is the diagram we restored. We output it in a .svg format. We put the original image aside for comparison.
-![](./images/org.jpg)![](./images/org.svg)
+![](./images/org.jpg)
+![](./images/org.svg)
  
 You may find that the data size in the graph is slightly different, because we actually do not have the original dataset, but fabricate a set of approximate datasets for use. This is because there is no specific data set in the original text, so we have to use the data we made up. But this is not the key point. We want to show the improvement of this chart, not the real data.
  
