@@ -26,7 +26,9 @@ In order to understand the specific information, We are in the article (http://w
 ,found a graph:
 (http://www.news.cn/datanews/20211015/C999058529900001C39214B0FE601D68/20211015C999058529900001C39214B0FE601D68_1211351537_1630390571638_title.jpg)
 However, when reviewing the data of the graph, our team found a lot of inadequacies in the  visualization of the graph.
-<!-- ![](./images/orgE.jpg) -->
+<div align=center>
+<img src="./images/orgE.jpg" width = 60% >
+</div>
 On the X-axis is the year information, from 1997 to 2020. The Y-axis is divided into the left and right sides, the left side represents the number of schools. On the right, indicates the number of teachers and students. The unit is ten thousand. The Y-axis on the left corresponds to the dark blue broken line in the graph, which represents the number of general colleges and universities; The Y-axis on the right corresponds to the two scatter points in the graph. The blue scatter points indicates the number of students in general colleges and universities, and the brown scatter points indicates the number of full-time teachers in general colleges and universities.
 
 The data looks neat, but it actually has some shortcomings in visualization. First, our team found that the relative length of its X-axis was short, which made the X-axis coordinates representing the year vertical and not convenient for us to observe. Secondly, when the scatter points represent the number of people, the change trend is not particularly intuitive, and the scatter points are too large for us to directly observe the specific data of the number of people in different years. Finally, the origin’s height of the Y-axis coordinates on both sides is different, the coordinate interval of the left Y-axis is too large (the coordinates of 6K~14K even have no effect), and the coordinate on the right is not guided by a straight line, which is not convenient for data observation.
@@ -45,12 +47,7 @@ To improve this visualization, first we need to restore it in to a vector diagra
 <img src="./images/org.svg" width="50%" >
 <!-- ![](./images/org.svg#pic_center=180x180) -->
 
-<div align=center>
-Original picture
-<br>
-<img src="./images/org.jpg" width = 30% >
-<img src="./images/org.svg" width = 40% >
-</div>
+
 
 <!-- <div align=center>
 <br>
