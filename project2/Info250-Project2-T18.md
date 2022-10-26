@@ -49,10 +49,11 @@ To improve this visualization, first we need to restore it in to a vector diagra
 <div align=center>
 Original picture
 <br>
-<img src="./images/org.jpg" width=45% style="float:left">
-<img src="./images/org.svg" width=55% style="float:left">
-<span style="position:relative;left:-150px">(fig2.1)</span>
-<span style="position:relative;left:150px">(fig2.2)</span>
+<img src="./images/org.jpg" width=40% style="float:left">
+<img src="./images/org.svg" width=50% style="float:left">
+ 
+<span style="position:relative;left:-350px">(fig2.1)</span>
+<span style="position:relative;left:350px">(fig2.2)</span>
 
 </div>
 
