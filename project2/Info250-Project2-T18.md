@@ -52,14 +52,7 @@ Original picture
 <img src="./images/org.svg" width=50% style="float:left">
 
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
