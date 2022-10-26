@@ -1,5 +1,7 @@
-# The improvements of “the situation of China’s higher education”
-
+## <center>The improvements of “the situation of China’s higher education”
+<div align=center>
+<h3>Group-18</h3>
+</div>
 <div align=center>
 <h2>Abstract</h2>
 </div>
@@ -42,17 +44,35 @@ This graph shows the trend of China's modern higher education (1997-2020) from e
  
 To improve this visualization, first we need to restore it in to a vector diagram. We used matplotlib to do this. Here is the diagram we restored. We output it in a .svg format. We put the original image aside for comparison.
 
-<!-- ![](./images/org.jpg#pic_center=180x180) -->
-<!-- <img src="./images/org.jpg" width="50%"
-<img src="./images/org.svg" width="50%" >
-<!-- ![](./images/org.svg#pic_center=180x180) -->
 
-
-
-<!-- <div align=center>
+<div align=center>
+Original picture
 <br>
-<img src="./images/org.svg" width = 40%>
-</div> -->
+<img src="./images/org.jpg" width=40% style="float:left">
+<img src="./images/org.svg" width=50% style="float:left">
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<!-- <br>
+<br>
+<br> -->
+
 
 You may find that the data size in the graph is slightly different, because we actually do not have the original dataset, but fabricate a set of approximate datasets for use. This is because there is no specific data set in the original text, so we have to use the data we made up. But this is not the key point. We want to show the improvement of this chart, not the real data.
  
@@ -65,7 +85,7 @@ Finally, the width of the x-axis is too narrow. We lengthen the horizontal axis 
 <div align=center>
 Improved picture
 <br>
-<img src="./images/changed.svg" width = 80% >
+<img src="./images/changed.svg" width = 100% >
 </div>
  
 This is the final version of our improvement of the original plot. Comparing it with the original plot, and you will find that it is more intuitive for data presentation. You can see the growth of the data clearly and obtain the size of the data accurately. Compared with the original plot, it is much cleaner.
