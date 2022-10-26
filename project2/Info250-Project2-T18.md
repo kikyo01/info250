@@ -69,6 +69,11 @@ In the previous context, we mentioned three shortages of the original visualizat
 
 Second, the plot type used is a scatter plot. Although it can roughly show the trend of data changes, it cannot show the size of data accurate enough. Here, we choose the line plot cooperating with nodes for data visualization. On the one hand, it can show the growth of data more clearly, on the other hand, it can show the size of data more accurately. At the same time, we will unify the legend and use different colors to distinguish different data.Finally, the width of the x-axis is too narrow. At the beginning, we lengthened the x-axis so that the plot can output all the years horizontally without overlapping. The following figure is obtained.
 Finally, the width of the x-axis is too narrow. At the beginning, we lengthened the x-axis so that the plot can output all the years horizontally without overlapping. The following figure is obtained.
+<div align=center>
+Improved picture
+<br>
+<img src="./images/changed0.svg" width = 100% >
+<span >(fig 3.1)</span>
 
 However, this figure can’t clearly show the development trend of "Teachers", yet the labels on the left side of the image is too redundant, and the label below can’t be fully displayed. So we changed our thoughts, making the two graphs narrower, while increasing the height of y-axis. At the same time, since the two graphs have independent units, we remove the y-labels of the two subplots and directly change the y-ticks to synchronize them with the data. The following figure shows our second improvement:
 
@@ -76,7 +81,7 @@ However, this figure can’t clearly show the development trend of "Teachers", y
 Improved picture
 <br>
 <img src="./images/changed.svg" width = 100% >
-<span >(fig 3.1)</span>
+<span >(fig 4.1)</span>
 
 </div>
  
