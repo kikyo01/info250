@@ -52,8 +52,8 @@ Original picture
 <img src="./images/org.jpg" width=40% style="float:left">
 <img src="./images/org.svg" width=50% style="float:left">
  
-<span style="position:relative;left:-350px">(fig2.1)</span>
-<span style="position:relative;left:350px">(fig2.2)</span>
+<span style="position:relative;left:-150px">(fig2.1)</span>
+<span style="position:relative;left:150px">(fig2.2)</span>
 
 </div>
 
