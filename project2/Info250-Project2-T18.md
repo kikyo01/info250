@@ -24,8 +24,8 @@ The spectacular development of China's modern higher education can be traced bac
 
 At the beginning of the People's Republic of China, there were only 205 general colleges and universities in China. After decades of development, especially after the Chinese general colleges and universities began enrollment expansion in 1999, the number of general colleges and universities, the number of students, the number of graduates and the size of schools have all exploded.	
 
-In order to understand the specific information, We are in the article (http://www.news.cn/datanews/20211015/C999058529900001C39214B0FE601D68/c.html)
-,found a graph:
+In order to understand the specific information, we found an article (http://www.news.cn/datanews/20211015/C999058529900001C39214B0FE601D68/c.html)
+with a graph:
 (http://www.news.cn/datanews/20211015/C999058529900001C39214B0FE601D68/20211015C999058529900001C39214B0FE601D68_1211351537_1630390571638_title.jpg)
 However, when reviewing the data of the graph, our team found a lot of inadequacies in the  visualization of the graph.
 <div align=center>
@@ -48,8 +48,8 @@ To improve this visualization, first we need to restore it in to a vector diagra
 <div align=center>
 Original picture
 <br>
-<img src="./images/org.jpg" width=40% style="float:left">
-<img src="./images/org.svg" width=50% style="float:left">
+<img src="./images/org.jpg" width=45% style="float:left">
+<img src="./images/org.svg" width=55% style="float:left">
 
 </div>
 
